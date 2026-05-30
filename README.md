@@ -13,7 +13,7 @@ El dataset `everpeak_retail` incluye 2,000 órdenes de clientes con valores falt
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab](https://colab.research.google.com/github/madro0131-wq/analysis-everpeak/blob/main/everpeak_analysis.ipynb)](URL_DEL_NOTEBOOK_EN_GITHUB)
+[![Open In Colab](https://colab.research.google.com/github/madro0131-wq/analysis-everpeak/blob/main/everpeak_analysis.ipynb)]
 
 O:
 
